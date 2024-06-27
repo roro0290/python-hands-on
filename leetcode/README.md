@@ -1,5 +1,5 @@
 # LeetCode
-As a developer transitioning from Java to Python, I've created this project to help familiarize myself with the fundamentals of Python syntax. Below is a list of key topics I will be exploring:
+### This project contains a list of LeetCode questions designed to help with the transition from Java to Python, focusing on familiarizing with Python syntax and concepts.
 ---
 **Array**
 | # | Title | Difficulty | Learning Points | Time Complexity |
