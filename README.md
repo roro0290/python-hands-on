@@ -13,5 +13,10 @@ This repository serves as my personal Python learning laboratory. It's a collect
 - 🧠 Explore Python's versatility in different programming paradigms
 - 🛠️ Build a portfolio of Python projects and code samples
 
+## References
+- https://www.practiceprobs.com/problemsets/python-numpy/beginner
+- Leetcode
+- Kaggle
+
 ## How to Use This Repo
 Feel free to explore the code, run the examples, and use them as inspiration for your own learning journey. Each folder contains README files with explanations and instructions.
