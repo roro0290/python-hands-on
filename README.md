@@ -15,7 +15,7 @@ This repository serves as my personal Python learning laboratory. It's a collect
 
 ## References
 - https://www.practiceprobs.com/problemsets/python-numpy/beginner
-- Leetcode
+- Leetcode [caobaohoang03](https://leetcode.com/u/caobaohoang03/)| [Git](https://github.com/hoangcaobao/LeetCode)
 - Kaggle
 
 ## How to Use This Repo
